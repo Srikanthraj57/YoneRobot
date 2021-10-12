@@ -1,5 +1,5 @@
 from envparse import env
-from YoneRobot import LOGGER
+from Sriki Robot import LOGGER
 
 DEFAULTS = {
     "LOAD_MODULES": True,
